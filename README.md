@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rnelson0/puppet-generate-puppetfile)
+
 [![Build Status](https://travis-ci.org/rnelson0/puppet-generate-puppetfile.png?branch=master)](https://travis-ci.org/rnelson0/puppet-generate-puppetfile)
 [![Gem Version](https://badge.fury.io/rb/generate-puppetfile.svg)](https://badge.fury.io/rb/generate-puppetfile)
 
